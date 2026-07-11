@@ -106,7 +106,7 @@ A simulated IT service desk environment built using Jira Service Management to r
 </ul>
 
 <p>
-Project documentation and screenshots: 
+Project documentation and screenshots:https://github.com/abdullahchowdhurynyc22/Help-Desk-Ticketing-lab 
 </p>
 
 ----------------------------------------------------------------------------------------------
