@@ -82,7 +82,7 @@ A small enterprise-style Windows Server environment built using Windows Server 2
 </ul>
 
 <p>
-Project documentation and screenshots: 
+Project documentation and screenshots: https://github.com/abdullahchowdhurynyc22/Active-Directory-Home-Lab-
 </p>
 
 
