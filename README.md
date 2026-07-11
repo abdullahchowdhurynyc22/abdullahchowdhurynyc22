@@ -129,7 +129,7 @@ Enterprise network troubleshooting lab demonstrating structured OSI-layer diagno
 </ul>
 
 <p>
-Project documentation and screenshots: 
+Project documentation and screenshots: https://github.com/abdullahchowdhurynyc22/Network-Troubleshooting-Lab
 </p>
 
 ----------------------------------------------------------------------------------------------
@@ -153,7 +153,7 @@ A hands-on IT support lab simulating real-world troubleshooting across Windows a
 </ul>
 
 <p>
-Project documentation and screenshots:
+Project documentation and screenshots:https://github.com/abdullahchowdhurynyc22/IT-Troubleshooting-Lab
 </p>
 
 ------------------------------------------------------------------------------------------------
