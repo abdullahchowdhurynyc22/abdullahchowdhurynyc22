@@ -23,6 +23,18 @@ My goal is to develop practical IT support skills and transition into a Help Des
   <li>Google Cybersecurity Certificate</li>
 </ul>
 
+<ul>
+ <li>CompTIA A+</li>
+</ul>
+
+<ul>
+ <li>CompTIA Security+</li>
+</ul>
+
+<ul>
+ <li>Cisco Certified Network Associate</li>
+</ul>
+
 <p>
 Completed foundational training in cybersecurity concepts including security fundamentals, risk management, network security, and incident response.
 </p>
