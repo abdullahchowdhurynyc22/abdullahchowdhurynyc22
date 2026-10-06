@@ -34,7 +34,7 @@ My goal is to develop practical IT support skills and transition into a Help Des
 <ul>
  <li>Cisco Certified Network Associate</li>
 </ul>
-
+https://github.com/abdullahchowdhurynyc22/IT-CERTS
 <p>
 Completed foundational training in cybersecurity concepts including security fundamentals, risk management, network security, and incident response.
 </p>
